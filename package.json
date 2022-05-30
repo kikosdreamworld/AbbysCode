@@ -1,0 +1,33 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "An app that can write, save, and delete notes.",
+    "main": "./Develop/public/assets/js/index.js",
+    "scripts": {
+      "test": "jest --watch"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+"
+    },
+    "keywords": [
+      "application",
+      "mysql",
+      "express",
+      "note",
+      "taker",
+      "coding",
+      "bootcamp"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": "",
+    "dependencies": {
+      "express": "^4.17.1",
+      "jest": "^25.1.0",
+      "mysql": "^2.18.0"
+    }
+} 
